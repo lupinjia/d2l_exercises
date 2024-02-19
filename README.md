@@ -10,3 +10,5 @@ This repository contains my solutions to the exercises in the book "Dive into De
 - [x] 2.4 Calculus
 - [ ] 2.5 Automatic Differentiation
 - [ ] 2.6 Probability and Statistics 
+
+## Chapter 3
