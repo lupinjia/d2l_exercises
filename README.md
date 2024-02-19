@@ -7,5 +7,5 @@ This repository contains my solutions to the exercises in the book "Dive into De
 - [x] 2.1 Data Manipulation
 - [x] 2.2 Data Preprocessing
 - [x] 2.3 Linear Algebra
-- [ ] 2.4 Calculus
-- [ ] 
+- [x] 2.4 Calculus
+- [ ] 2.5  
