@@ -1,6 +1,6 @@
 # d2l_exercises
 
-This repository contains my solutions to the exercises in the book "Dive into Deep Learning" (D2L).
+This repository contains my solutions to the exercises in the book ["Dive into Deep Learning" (D2L)](https://d2l.ai/index.html)(based on the version of 2024/02/22).
 
 ## Chapter 2
 
@@ -9,7 +9,7 @@ This repository contains my solutions to the exercises in the book "Dive into De
 - [x] 2.3 Linear Algebra
 - [x] 2.4 Calculus
 - [x] 2.5 Automatic Differentiation
-- [ ] 2.6 Probability and Statistics 
+- [x] 2.6 Probability and Statistics 
 
     except 4, 8
 
