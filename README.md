@@ -9,11 +9,20 @@ This repository contains my solutions to the exercises in the book ["Dive into D
 - [x] 2.3 Linear Algebra
 - [x] 2.4 Calculus
 - [x] 2.5 Automatic Differentiation
-- [x] 2.6 Probability and Statistics 
-
-    except 4, 8
+- [x] 2.6 Probability and Statistics (except 4, 8.4)
 
 ## Chapter 3
 
 - [ ] 3.1 Linear Regression
-- [ ] 3.2 Object-Oriented Design for Implementation
+- [x] 3.2 Object-Oriented Design for Implementation(except 1)
+- [ ] 3.3 Synthetic Regression Data
+- [ ] 3.4 Linear Regression Implementation from Scratch
+- [ ] 3.5 Concise Implementation of Linear Regression
+- [ ] 3.6 Generalization
+- [ ] 3.7 Weight Decay
+
+## Chapter 4
+
+- [ ] 4.1 Softmax Regression
+- [ ] 4.2 The Image Classification Dataset
+- [ ] 
