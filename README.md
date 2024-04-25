@@ -17,8 +17,8 @@ This repository contains my solutions to the exercises in the book ["Dive into D
 - [x] 3.2 Object-Oriented Design for Implementation(except 1)
 - [x] 3.3 Synthetic Regression Data
 - [x] 3.4 Linear Regression Implementation from Scratch (except 8.3, 9)
-- [ ] 3.5 Concise Implementation of Linear Regression
-- [ ] 3.6 Generalization
+- [x] 3.5 Concise Implementation of Linear Regression
+- [x] 3.6 Generalization(except 2, 6)
 - [ ] 3.7 Weight Decay
 
 ## Chapter 4
