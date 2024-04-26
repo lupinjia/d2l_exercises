@@ -35,4 +35,4 @@ This repository contains my solutions to the exercises in the book ["Dive into D
 
 - [ ] 5.1 Multilayer Perceptrons
 - [ ] 5.2 Implementation of Multilayer Perceptrons
-- [ ] 
+- [ ] 5.3 Forward Propagation, Backward Propagation, and Computational Graphs
